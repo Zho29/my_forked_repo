@@ -19,3 +19,7 @@ if it is on a software development platform like Horizon. However, it is also im
 If this were a normal software development platform, it could have led to situations such as data breaches, but they would have been mostly contained. Because it is impacting physical technology, however,
 it will be impacting the real world and can cause damages. Therefore, although this leads to a technological advancement, this also opens doors for some risks that must be accounted for, which makes this
 improvement interesting to consider.
+
+## Comment from Abhishek Subedi
+
+I found the connection between virtual development environments and automotive safety especially interesting. Platforms like Horizon could help engineers test ideas and identify problems more quickly, but software inside a vehicle has real-world consequences that make careful validation essential. AI may accelerate development, yet human oversight, security testing, and responsible engineering decisions must remain central to the process.
