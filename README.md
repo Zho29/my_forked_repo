@@ -19,3 +19,7 @@ if it is on a software development platform like Horizon. However, it is also im
 If this were a normal software development platform, it could have led to situations such as data breaches, but they would have been mostly contained. Because it is impacting physical technology, however,
 it will be impacting the real world and can cause damages. Therefore, although this leads to a technological advancement, this also opens doors for some risks that must be accounted for, which makes this
 improvement interesting to consider.
+
+## Comment From Elize
+
+I thought this article was really interesting because it shows how software engineering is becoming such a big part of industries that people don't always immediately associate with software, like cars. I liked the part about using AI-assisted tools and virtual environments to help engineers build and test features faster. The fact that some software feedback can go from taking hours to just minutes shows how much cloud tools can improve the development process. It also made me think about how engineers are being important in every industry. 
